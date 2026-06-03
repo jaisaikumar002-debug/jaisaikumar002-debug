@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,git,linux,ansible,python,java,mysql" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,git,linux,ansible,java,mysql" />
 
 </div>
 
@@ -142,7 +142,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/JaiSaiKumar">
+<a href="https://www.linkedin.com/in/jai-sai-kumar-attada-80432a280/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
