@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🚀 ATTADA JAI SAIKUMAR
+# 🚀 ATTADA JAI SAI KUMAR
 
-### DevOps Engineer • AWS Cloud • Kubernetes • CI/CD Automation
+### Cloud DevOps Engineer • AWS • Azure • Kubernetes • CI/CD
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Cloud+Engineer;Kubernetes+Administrator;CI%2FCD+Automation+Specialist;Docker+%7C+Jenkins+%7C+ArgoCD;Cloud+Infrastructure+Engineer;Building+Scalable+Production+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+DevOps+Engineer;AWS+%7C+Azure+Cloud+Engineer;Kubernetes+%26+Docker+Engineer;CI%2FCD+Automation+Specialist;Terraform+%7C+Jenkins+%7C+ArgoCD;Cloud+Infrastructure+Automation;Production+Reliability+%26+Monitoring" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=DevOps%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Cloud%20DevOps%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <img src="https://komarev.com/ghpvc/?username=jaisaikumar002-debug&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## ⚡ Automating Infrastructure • Accelerating Deployments • Scaling Reliability ⚡
+## ⚡ Automating Infrastructure • Accelerating Deployments • Improving Reliability ⚡
 
 </div>
 
@@ -26,15 +26,17 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA0ODU0NGQ4NzQxNDA0ODI5N2UxZjk5YjFkYjJmYjQ4NGRjNGEyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-🚀 DevOps Engineer with 2+ years of experience working at **Tata Consultancy Services (TCS)** for **GE Aerospace**.
+🚀 Cloud DevOps Engineer at **Tata Consultancy Services (TCS)** supporting **GE Aerospace**.
 
-☁️ Experienced in designing and managing scalable AWS cloud infrastructure.
+☁️ Experienced in managing **AWS & Microsoft Azure** infrastructure across Dev, QA, and Production environments.
 
-🐳 Skilled in Docker, Kubernetes, Jenkins, ArgoCD, Linux, and CI/CD automation.
+⚙️ Skilled in **Terraform, CloudFormation, Ansible, Jenkins, GitHub Actions, AWS CodePipeline, Azure DevOps, and ArgoCD**.
 
-⚙️ Passionate about Infrastructure Automation, Cloud-Native Technologies, and Production Reliability.
+🐳 Experienced with **Docker, Kubernetes, Amazon EKS, and Azure AKS** for containerized application deployments.
 
-🔥 Focused on building secure, scalable, and highly available systems.
+📊 Experienced in **Prometheus, Grafana, CloudWatch, Azure Monitor, and Dynatrace** for monitoring and observability.
+
+🔥 Focused on **automation, high availability, disaster recovery, incident management, troubleshooting, and production reliability**.
 
 ---
 
@@ -42,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,git,linux,ansible,java,mysql" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,github,git,linux,ansible,terraform,prometheus,grafana,python,java,mysql" />
 
 </div>
 
@@ -53,6 +55,10 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Azure-Cloud%20Infrastructure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
@@ -70,46 +76,123 @@
 
 # 🚀 PROFESSIONAL EXPERIENCE
 
-## 💼 DevOps / Cloud Engineer — TCS (GE Aerospace)
+## 💼 Cloud DevOps Engineer — Tata Consultancy Services (TCS)
 
-📅 Apr 2024 – Present
+### Client: GE Aerospace
 
-✔️ Managing Kubernetes workloads and production deployments
-✔️ Building automated CI/CD pipelines using Jenkins & ArgoCD
-✔️ Managing AWS services including EC2, VPC, IAM, ALB, EFS, RDS, and Auto Scaling
-✔️ Deploying Java applications on Apache Tomcat
-✔️ Monitoring infrastructure using Prometheus and Grafana
-✔️ Maintaining deployment reliability and high application availability
+📅 **[MM/YYYY] – Present**
 
----
+✔️ Manage **AWS & Azure** infrastructure across Dev, QA & Production environments.
 
-# 🚀 FEATURED PROJECTS
+✔️ Provision infrastructure using **Terraform, CloudFormation & Ansible**.
 
-## ☁️ AWS Three-Tier Architecture Deployment
+✔️ Develop CI/CD pipelines using **Jenkins, GitHub Actions, AWS CodePipeline & Azure DevOps**.
 
-🔹 Architected production-grade AWS infrastructure
-🔹 Configured VPC, Public/Private Subnets, ALB & Auto Scaling
-🔹 Hosted React.js frontend with NGINX
-🔹 Connected Node.js backend with RDS Aurora MySQL
-🔹 Implemented secure networking and IAM policies
+✔️ Integrate **Git → Jenkins → Build → Docker → Kubernetes** for automated deployments.
 
----
+✔️ Build and manage Docker images for **Amazon EKS & Azure AKS**.
 
-## ⚙️ Netflix CI/CD Pipeline Automation
+✔️ Implement **ArgoCD GitOps** workflows for Kubernetes deployments.
 
-🔹 Built end-to-end automated CI/CD pipeline
-🔹 Integrated Jenkins, SonarQube, Tomcat, and AWS S3
-🔹 Automated build, testing, packaging, and deployment workflows
-🔹 Reduced manual deployment efforts significantly
+✔️ Manage Kubernetes **Deployments, Services, ConfigMaps, Secrets, Ingress & HPA**.
+
+✔️ Configure **liveness/readiness probes, metrics, logs & health checks**.
+
+✔️ Monitor infrastructure and applications using **Prometheus, Grafana, CloudWatch, Azure Monitor & Dynatrace**.
+
+✔️ Troubleshoot **CI/CD failures, Docker issues, Kubernetes workloads and application/infrastructure alerts**.
+
+✔️ Handle **incident management, troubleshooting, performance optimization, high availability and disaster recovery**.
+
+✔️ Collaborate with **development, testing and cross-functional teams** to maintain reliable cloud operations and drive continuous improvement.
 
 ---
 
-## ☸️ Kubernetes Middleware Operations
+# 🔄 END-TO-END DEVOPS WORKFLOW
 
-🔹 Managed Kubernetes middleware workloads
-🔹 Automated deployments using ArgoCD
-🔹 Maintained cluster stability and application uptime
-🔹 Monitored pods, deployments, and production workloads
+<div align="center">
+
+### Git → Jenkins → Build → Docker → Kubernetes → Health Checks → Monitoring
+
+<br>
+
+**Git / GitHub**
+
+⬇️
+
+**Jenkins / GitHub Actions / CodePipeline / Azure DevOps**
+
+⬇️
+
+**Application Build & Validation**
+
+⬇️
+
+**Docker Containerization**
+
+⬇️
+
+**Amazon EKS / Azure AKS**
+
+⬇️
+
+**ArgoCD GitOps Deployment**
+
+⬇️
+
+**Health Checks & Application Validation**
+
+⬇️
+
+**Prometheus / Grafana / CloudWatch / Azure Monitor / Dynatrace**
+
+</div>
+
+---
+
+# 🏆 KEY ACHIEVEMENTS
+
+🔹 **End-to-End CI/CD:** Automated application delivery from **Git → Jenkins → Docker → Kubernetes**.
+
+🔹 **Kubernetes Deployment:** Automated deployments across **Amazon EKS & Azure AKS** using **ArgoCD GitOps**.
+
+🔹 **Infrastructure Automation:** Provisioned cloud infrastructure using reusable **Terraform configurations & CloudFormation templates**.
+
+🔹 **Production Reliability:** Implemented **health checks, metrics, logs & alerts** for deployment and application monitoring.
+
+🔹 **Troubleshooting:** Resolved **Jenkins, Docker, Kubernetes and application failures** using logs, events and monitoring metrics.
+
+🔹 **Automation:** Developed **Shell & Python scripts** for operational and troubleshooting activities.
+
+---
+
+# ☁️ AWS CLOUD SERVICES
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/EC2-Compute-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+
+<img src="https://img.shields.io/badge/S3-Storage-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/VPC-Networking-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/IAM-Security-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/EKS-Kubernetes-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" />
+
+<img src="https://img.shields.io/badge/RDS-Database-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+
+<img src="https://img.shields.io/badge/EFS-Storage-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/ALB-Load%20Balancing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Auto%20Scaling-Compute-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CloudWatch-Monitoring-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Route%2053-DNS-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white" />
+
+</div>
 
 ---
 
@@ -117,24 +200,62 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Monitoring-Prometheus-orange?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Dashboard-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-Dashboards-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Amazon%20CloudWatch-Monitoring-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
 
-<img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Monitor-Monitoring-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Dynatrace-Observability-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" />
 
 </div>
 
 ---
 
+# ⚙️ AUTOMATION & DEVOPS
+
+| Area                   | Technologies                                                         |
+| ---------------------- | -------------------------------------------------------------------- |
+| **Cloud**              | AWS, Microsoft Azure                                                 |
+| **IaC**                | Terraform, CloudFormation, Ansible                                   |
+| **Containers**         | Docker, Kubernetes, Amazon EKS, Azure AKS                            |
+| **CI/CD**              | Git, GitHub, GitHub Actions, Jenkins, AWS CodePipeline, Azure DevOps |
+| **GitOps**             | ArgoCD                                                               |
+| **Monitoring**         | CloudWatch, Azure Monitor, Prometheus, Grafana, Dynatrace            |
+| **Scripting**          | Shell Scripting, Python, YAML, Groovy                                |
+| **Databases**          | SQL, RDS                                                             |
+| **Operating System**   | Linux                                                                |
+| **AI-Assisted DevOps** | ChatGPT, GitHub Copilot                                              |
+
+---
+
 # 📜 CERTIFICATIONS
 
-🏅 Microsoft Azure Fundamentals (AZ-900)
-🏅 TCS — Generative AI & Cybersecurity
-🏅 Python with AI, ML & Deep Learning
-🏅 Java Certification
+🏅 **AWS Certified Solutions Architect – Associate (SAA-C03)**
+
+🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
+
+🏅 **TCS — Generative AI & Cybersecurity**
+
+---
+
+# 🎓 EDUCATION
+
+🎓 **B.Tech. in Electrical and Electronics Engineering**
+
+📅 **10/2020 – 04/2023**
+
+---
+
+# 🌐 LANGUAGES
+
+🇬🇧 **English** — Professional
+
+🇮🇳 **Hindi** — Fluent
+
+🇮🇳 **Telugu** — Native
 
 ---
 
