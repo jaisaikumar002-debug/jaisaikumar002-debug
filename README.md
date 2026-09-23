@@ -80,7 +80,7 @@
 
 ### Client: GE Aerospace
 
-📅 **[MM/YYYY] – Present**
+📅 **[04/2024] – Present**
 
 ✔️ Manage **AWS & Azure** infrastructure across Dev, QA & Production environments.
 
